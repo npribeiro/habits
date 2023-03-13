@@ -1,8 +1,10 @@
-### Projeto criado durante o evento NLW do RocketSeat.
+#### Project developed at Rocketseat Next Level Week (NLW) event 
 
-### Track de hábitos, versão web e mobile, com banco de dados local.
+#### Habit tracker, web and mobile
 
-### Made using Typescript, Tailwind, Prisma and React Native.
+##### Made using Vite, React, React Native, Typescript, Prisma (API) and Tailwind (CSS).
+
+_
 
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/101182223/224084726-beba4256-c9d8-4d19-be2a-f14c558d2fac.gif)
 
